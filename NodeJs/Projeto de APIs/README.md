@@ -52,6 +52,24 @@ Ao replicar o repositório será necessário seguir as seguintes etapas:
 
 _Legenda: atributos em fonte **bold** são required_
 
+**_Cliente_** (idade é calculada/opcional)
+```json
+{
+  "nome": "Gabriel",
+  "sobrenome": "Silva",
+  "sexo": "masculino",
+  "dataNascimento": "31/05/1996",
+  "cidade": "Uberlândia
+}
+```
+**_Cidade_**
+```json
+{
+  "nome": "Uberlândia",
+  "estado": "Minas Gerais"
+}
+```
+
 
 ## Enunciado do Progress Report 3
 
