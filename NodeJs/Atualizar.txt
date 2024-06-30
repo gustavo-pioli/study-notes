@@ -1,0 +1,5 @@
+Verificar urls de requisição para desconsiderar espaços ou acentuação
+
+verificar controlador de erros, diversos erros surgiram pela utilização do spread em um objeto Error
+
+lembrar de utilizar javascript debug terminal
