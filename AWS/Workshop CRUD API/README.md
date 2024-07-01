@@ -1,5 +1,7 @@
 ## Workshop Build your first CRUP API in 45 min
 
+[Link Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US)
+
 O objetivo do workshop é construir uma CRUD API muito simples (Create, read, update, delete) utilizando serviços AWS como DynamoDB, AWS Lambda e API Gateway
 
 ![Modelo do Projeto](./imagensMD/Modelo%20do%20Projeto.png)
